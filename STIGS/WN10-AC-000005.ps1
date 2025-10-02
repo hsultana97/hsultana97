@@ -22,7 +22,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\STIG-ID-WN10-AU-000005.ps1 
+    PS C:\> .\STIG-ID-WN10-AC-000005.ps1 
 #>
 
 #Account Lockout Policy Setup
