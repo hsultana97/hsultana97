@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Creation of a Mini SOC and Honeynet](https://github.com/hsultana97/soc-and-honeynet)**
+- **[Creation of a Mini SOC and Honeynet](https://github.com/hsultana97/)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/hsultana97/threat-hunting-scenario-tor)**
 
 <hr/>
